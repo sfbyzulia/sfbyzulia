@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Zulfiyya BEN ADIBAH</h1>
-<h3 align="center">A passionate Salesforce Developer from Azerbaijan 🇦🇿</h3>
+<h3 align="center">A passionate Salesforce Developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGttb2Zmam5hdjJmbzExbXRwNzJmeW1hYXpjeWNuZG1iaXhydzl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.webp">
 
 - 👨‍💻 All of my projects are available at [https://github.com/sfbyzulia?tab=repositories](https://github.com/sfbyzulia?tab=repositories)
