@@ -1,5 +1,7 @@
+[![Masterhead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM4enQwZ2t4d2EwdjI3cXIydGttYWNnMnJ5bHFwYW02dDdqenA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RorC7LdGAZ8EanOi1F/giphy.webp)]
 <h1 align="center">Hi 👋, I'm Zulfiyya BEN ADIBAH</h1>
 <h3 align="center">A passionate Salesforce Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">
 
 - 👨‍💻 All of my projects are available at [https://github.com/sfbyzulia?tab=repositories](https://github.com/sfbyzulia?tab=repositories)
 
