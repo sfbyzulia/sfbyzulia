@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://giphy.com">
-    <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRkZXZjbTNrMGdxa21ubmtjcnA5eDNoMG1pbHlzZmVldjdicWJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SlaiZOZAoL0xRoVYhI/giphy.gif]" alt="Masterhead" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRkZXZjbTNrMGdxa21ubmtjcnA5eDNoMG1pbHlzZmVldjdicWJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SlaiZOZAoL0xRoVYhI/giphy.gif" alt="Masterhead" />
   </a>
 </p>
 
