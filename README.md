@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://giphy.com">
-    <img src="[[https://camo.githubusercontent.com/8add0fe520c1168620ef8210d4b6947df317144d704f13a00ea63c6e91841572/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457865474d34656e51775a32743464324577646a4933635849796447747459574e6e4d6e4a35624846775957303264446471656e413462435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f526f7243374c6447415a3845616e4f6931462f67697068792e7765627](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0wNWJweDJpdzRoaWF4cTJ3NWFyMmJxbHZjYzM4YjZ2cjBsampmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DivlOk2S7HzyOTc7my/giphy.webp)](https://giphy.com/gifs/salesforce-fly-flying-clouds-DivlOk2S7HzyOTc7my)" alt="Masterhead" />
+    <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW0wNWJweDJpdzRoaWF4cTJ3NWFyMmJxbHZjYzM4YjZ2cjBsampmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DivlOk2S7HzyOTc7my/giphy.webp]" alt="Masterhead" />
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Zulfiyya BEN ADIBAH</h1>
 <h3 align="center">A passionate Salesforce Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGttb2Zmam5hdjJmbzExbXRwNzJmeW1hYXpjeWNuZG1iaXhydzl4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.webp">
-- 👨‍💻 All of my projects are available at [https://github.com/sfbyzulia?tab=repositories]
+- 👨‍💻 All of my projects are available at https://github.com/sfbyzulia?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
